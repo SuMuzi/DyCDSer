@@ -20,11 +20,30 @@ and transferable strategy for precipitation downscaling.
 
 - Python 3.8
 - PyTorch 2.1.0 + CUDA 12.1
-- 
+
 ## Data Preparation
 
 - ERA5 reanalysis: download from [ECMWF CDS](https://cds.climate.copernicus.eu/)
 - Target: the NVIDIA NGC catalogue at https://catalog.ngc.nvidia.com/orgs/nvidia/teams/modulus/resources/modulus\_datasets\_cwa.
 
 ## Results
-![result](results/figs/fig1.png)
+![result1](results/figs/fig1.png)
+![result2](results/figs/fig2.png)
+![result3](results/figs/fig3.png)
+![result4](results/figs/fig4.png)
+![result5](results/figs/fig5.png)
+![result6](results/figs/fig6.png)
+![result7](results/figs/fig7.png)
+![result8](results/figs/fig8.png)
+![result9](results/figs/fig9.png)
+![result10](results/figs/fig10.png)
+![result11](results/figs/fig11.png)
+![result12](results/figs/fig11.png)
+![result13](results/figs_SI/fig1.png)
+![result14](results/figs_SI/fig2.png)
+![result15](results/figs_SI/fig3.png)
+![result16](results/figs_SI/fig4.png)
+![result17](results/figs_SI/fig5.png)
+![result18](results/figs_SI/fig6.png)
+
+
